@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\ParalelProgramlama\bin\Debug\ParalelProgramlama.exe.config
+C:\Users\fatmanur\source\repos\ParalelProgramlama\bin\Debug\ParalelProgramlama.exe
+C:\Users\fatmanur\source\repos\ParalelProgramlama\bin\Debug\ParalelProgramlama.pdb
+C:\Users\fatmanur\source\repos\ParalelProgramlama\obj\Debug\ParalelProgramlama.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\ParalelProgramlama\obj\Debug\ParalelProgramlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\ParalelProgramlama\obj\Debug\ParalelProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\ParalelProgramlama\obj\Debug\ParalelProgramlama.exe
+C:\Users\fatmanur\source\repos\ParalelProgramlama\obj\Debug\ParalelProgramlama.pdb

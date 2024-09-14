@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\ThreadOrnek\bin\Debug\ThreadOrnek.exe.config
+C:\Users\fatmanur\source\repos\ThreadOrnek\bin\Debug\ThreadOrnek.exe
+C:\Users\fatmanur\source\repos\ThreadOrnek\bin\Debug\ThreadOrnek.pdb
+C:\Users\fatmanur\source\repos\ThreadOrnek\obj\Debug\ThreadOrnek.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\ThreadOrnek\obj\Debug\ThreadOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\ThreadOrnek\obj\Debug\ThreadOrnek.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\ThreadOrnek\obj\Debug\ThreadOrnek.exe
+C:\Users\fatmanur\source\repos\ThreadOrnek\obj\Debug\ThreadOrnek.pdb

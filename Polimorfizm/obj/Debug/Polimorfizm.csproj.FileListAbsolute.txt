@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+C:\Users\fatmanur\source\repos\Polimorfizm\bin\Debug\Polimorfizm.exe
+C:\Users\fatmanur\source\repos\Polimorfizm\bin\Debug\Polimorfizm.pdb
+C:\Users\fatmanur\source\repos\Polimorfizm\obj\Debug\Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Polimorfizm\obj\Debug\Polimorfizm.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Polimorfizm\obj\Debug\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Polimorfizm\obj\Debug\Polimorfizm.exe
+C:\Users\fatmanur\source\repos\Polimorfizm\obj\Debug\Polimorfizm.pdb

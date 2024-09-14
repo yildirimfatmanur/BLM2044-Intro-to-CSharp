@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Interface\bin\Debug\Interface.exe.config
+C:\Users\fatmanur\source\repos\Interface\bin\Debug\Interface.exe
+C:\Users\fatmanur\source\repos\Interface\bin\Debug\Interface.pdb
+C:\Users\fatmanur\source\repos\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Interface\obj\Debug\Interface.exe
+C:\Users\fatmanur\source\repos\Interface\obj\Debug\Interface.pdb

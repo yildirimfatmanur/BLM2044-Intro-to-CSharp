@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Equals\bin\Debug\Equals.exe.config
+C:\Users\fatmanur\source\repos\Equals\bin\Debug\Equals.exe
+C:\Users\fatmanur\source\repos\Equals\bin\Debug\Equals.pdb
+C:\Users\fatmanur\source\repos\Equals\obj\Debug\Equals.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Equals\obj\Debug\Equals.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Equals\obj\Debug\Equals.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Equals\obj\Debug\Equals.exe
+C:\Users\fatmanur\source\repos\Equals\obj\Debug\Equals.pdb

@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\NestedList\bin\Debug\NestedList.exe.config
+C:\Users\fatmanur\source\repos\NestedList\bin\Debug\NestedList.exe
+C:\Users\fatmanur\source\repos\NestedList\bin\Debug\NestedList.pdb
+C:\Users\fatmanur\source\repos\NestedList\obj\Debug\NestedList.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\NestedList\obj\Debug\NestedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\NestedList\obj\Debug\NestedList.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\NestedList\obj\Debug\NestedList.exe
+C:\Users\fatmanur\source\repos\NestedList\obj\Debug\NestedList.pdb

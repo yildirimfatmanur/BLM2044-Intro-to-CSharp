@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\NesneDizileri\bin\Debug\NesneDizileri.exe.config
+C:\Users\fatmanur\source\repos\NesneDizileri\bin\Debug\NesneDizileri.exe
+C:\Users\fatmanur\source\repos\NesneDizileri\bin\Debug\NesneDizileri.pdb
+C:\Users\fatmanur\source\repos\NesneDizileri\obj\Debug\NesneDizileri.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\NesneDizileri\obj\Debug\NesneDizileri.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\NesneDizileri\obj\Debug\NesneDizileri.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\NesneDizileri\obj\Debug\NesneDizileri.exe
+C:\Users\fatmanur\source\repos\NesneDizileri\obj\Debug\NesneDizileri.pdb

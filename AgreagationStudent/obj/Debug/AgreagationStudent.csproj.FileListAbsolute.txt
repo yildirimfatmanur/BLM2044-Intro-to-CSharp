@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\AgreagationStudent\bin\Debug\AgreagationStudent.exe.config
+C:\Users\fatmanur\source\repos\AgreagationStudent\bin\Debug\AgreagationStudent.exe
+C:\Users\fatmanur\source\repos\AgreagationStudent\bin\Debug\AgreagationStudent.pdb
+C:\Users\fatmanur\source\repos\AgreagationStudent\obj\Debug\AgreagationStudent.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\AgreagationStudent\obj\Debug\AgreagationStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\AgreagationStudent\obj\Debug\AgreagationStudent.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\AgreagationStudent\obj\Debug\AgreagationStudent.exe
+C:\Users\fatmanur\source\repos\AgreagationStudent\obj\Debug\AgreagationStudent.pdb

@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\ObjectArray\bin\Debug\ObjectArray.exe.config
+C:\Users\fatmanur\source\repos\ObjectArray\bin\Debug\ObjectArray.exe
+C:\Users\fatmanur\source\repos\ObjectArray\bin\Debug\ObjectArray.pdb
+C:\Users\fatmanur\source\repos\ObjectArray\obj\Debug\ObjectArray.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\ObjectArray\obj\Debug\ObjectArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\ObjectArray\obj\Debug\ObjectArray.exe
+C:\Users\fatmanur\source\repos\ObjectArray\obj\Debug\ObjectArray.pdb

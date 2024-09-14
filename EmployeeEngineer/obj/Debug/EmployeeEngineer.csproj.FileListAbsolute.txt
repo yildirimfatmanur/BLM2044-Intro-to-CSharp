@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\EmployeeEngineer\bin\Debug\EmployeeEngineer.exe.config
+C:\Users\fatmanur\source\repos\EmployeeEngineer\bin\Debug\EmployeeEngineer.exe
+C:\Users\fatmanur\source\repos\EmployeeEngineer\bin\Debug\EmployeeEngineer.pdb
+C:\Users\fatmanur\source\repos\EmployeeEngineer\obj\Debug\EmployeeEngineer.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\EmployeeEngineer\obj\Debug\EmployeeEngineer.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\EmployeeEngineer\obj\Debug\EmployeeEngineer.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\EmployeeEngineer\obj\Debug\EmployeeEngineer.exe
+C:\Users\fatmanur\source\repos\EmployeeEngineer\obj\Debug\EmployeeEngineer.pdb

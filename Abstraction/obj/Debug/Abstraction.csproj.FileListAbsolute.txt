@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\fatmanur\source\repos\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\fatmanur\source\repos\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\fatmanur\source\repos\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\fatmanur\source\repos\Abstraction\obj\Debug\Abstraction.pdb

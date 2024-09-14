@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\bin\Debug\Soru2BenimCozum.exe.config
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\bin\Debug\Soru2BenimCozum.exe
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\bin\Debug\Soru2BenimCozum.pdb
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\obj\Debug\Soru2BenimCozum.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\obj\Debug\Soru2BenimCozum.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\obj\Debug\Soru2BenimCozum.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\obj\Debug\Soru2BenimCozum.exe
+C:\Users\fatmanur\source\repos\Soru2BenimCozum\obj\Debug\Soru2BenimCozum.pdb

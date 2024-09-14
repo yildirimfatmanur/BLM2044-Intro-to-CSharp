@@ -1,0 +1,16 @@
+C:\Users\fatmanur\source\repos\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\fatmanur\source\repos\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\fatmanur\source\repos\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\fatmanur\source\repos\Kalitim\obj\Debug\Kalitim.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Kalitim\obj\Debug\Kalitim.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Kalitim\obj\Debug\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\fatmanur\source\repos\Kalitim\obj\Debug\Kalitim.pdb
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\obj\Debug\Kalitim.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\obj\Debug\Kalitim.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\obj\Debug\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\fatmanur\source\repos\Csharp\Kalitim\obj\Debug\Kalitim.pdb

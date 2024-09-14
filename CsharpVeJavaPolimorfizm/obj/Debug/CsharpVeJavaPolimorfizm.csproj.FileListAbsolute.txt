@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\bin\Debug\CsharpVeJavaPolimorfizm.exe.config
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\bin\Debug\CsharpVeJavaPolimorfizm.exe
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\bin\Debug\CsharpVeJavaPolimorfizm.pdb
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\obj\Debug\CsharpVeJavaPolimorfizm.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\obj\Debug\CsharpVeJavaPolimorfizm.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\obj\Debug\CsharpVeJavaPolimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\obj\Debug\CsharpVeJavaPolimorfizm.exe
+C:\Users\fatmanur\source\repos\CsharpVeJavaPolimorfizm\obj\Debug\CsharpVeJavaPolimorfizm.pdb

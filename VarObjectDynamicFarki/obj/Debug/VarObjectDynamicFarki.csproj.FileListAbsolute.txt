@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\bin\Debug\VarObjectDynamicFarki.exe.config
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\bin\Debug\VarObjectDynamicFarki.exe
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\bin\Debug\VarObjectDynamicFarki.pdb
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\obj\Debug\VarObjectDynamicFarki.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\obj\Debug\VarObjectDynamicFarki.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\obj\Debug\VarObjectDynamicFarki.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\obj\Debug\VarObjectDynamicFarki.exe
+C:\Users\fatmanur\source\repos\VarObjectDynamicFarki\obj\Debug\VarObjectDynamicFarki.pdb

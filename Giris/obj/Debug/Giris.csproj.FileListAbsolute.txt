@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Giris\bin\Debug\Giris.exe.config
+C:\Users\fatmanur\source\repos\Giris\bin\Debug\Giris.exe
+C:\Users\fatmanur\source\repos\Giris\bin\Debug\Giris.pdb
+C:\Users\fatmanur\source\repos\Giris\obj\Debug\Giris.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Giris\obj\Debug\Giris.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Giris\obj\Debug\Giris.exe
+C:\Users\fatmanur\source\repos\Giris\obj\Debug\Giris.pdb

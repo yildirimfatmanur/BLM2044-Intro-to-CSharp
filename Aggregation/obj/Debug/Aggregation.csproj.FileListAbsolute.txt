@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\fatmanur\source\repos\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\fatmanur\source\repos\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\fatmanur\source\repos\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Aggregation\obj\Debug\Aggregation.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\fatmanur\source\repos\Aggregation\obj\Debug\Aggregation.pdb

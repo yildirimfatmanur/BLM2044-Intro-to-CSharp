@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Soru5\bin\Debug\Soru5.exe.config
+C:\Users\fatmanur\source\repos\Soru5\bin\Debug\Soru5.exe
+C:\Users\fatmanur\source\repos\Soru5\bin\Debug\Soru5.pdb
+C:\Users\fatmanur\source\repos\Soru5\obj\Debug\Soru5.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Soru5\obj\Debug\Soru5.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Soru5\obj\Debug\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Soru5\obj\Debug\Soru5.exe
+C:\Users\fatmanur\source\repos\Soru5\obj\Debug\Soru5.pdb

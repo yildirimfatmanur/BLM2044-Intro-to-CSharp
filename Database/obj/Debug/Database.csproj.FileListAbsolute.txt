@@ -1,0 +1,11 @@
+C:\Users\fatmanur\source\repos\Database\bin\Debug\Database.exe.config
+C:\Users\fatmanur\source\repos\Database\bin\Debug\Database.exe
+C:\Users\fatmanur\source\repos\Database\bin\Debug\Database.pdb
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.Form1.resources
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.exe
+C:\Users\fatmanur\source\repos\Database\obj\Debug\Database.pdb

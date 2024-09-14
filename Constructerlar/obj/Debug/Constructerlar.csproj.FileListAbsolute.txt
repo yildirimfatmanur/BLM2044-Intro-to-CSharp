@@ -1,0 +1,8 @@
+C:\Users\fatmanur\source\repos\Constructerlar\bin\Debug\Constructerlar.exe.config
+C:\Users\fatmanur\source\repos\Constructerlar\bin\Debug\Constructerlar.exe
+C:\Users\fatmanur\source\repos\Constructerlar\bin\Debug\Constructerlar.pdb
+C:\Users\fatmanur\source\repos\Constructerlar\obj\Debug\Constructerlar.csproj.AssemblyReference.cache
+C:\Users\fatmanur\source\repos\Constructerlar\obj\Debug\Constructerlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatmanur\source\repos\Constructerlar\obj\Debug\Constructerlar.csproj.CoreCompileInputs.cache
+C:\Users\fatmanur\source\repos\Constructerlar\obj\Debug\Constructerlar.exe
+C:\Users\fatmanur\source\repos\Constructerlar\obj\Debug\Constructerlar.pdb
